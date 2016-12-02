@@ -3,7 +3,9 @@ Search
 
 This application objective is to comunicate with ElasticSearch and do searches to find results based on the keywords typed. 
 Basically the application will find "Series" based on the keywords specified.
-Ex.: “Marvel”, “Suspense”
+Ex.: “Marvel”, “Suspense”.
+
+This application was based on a example from [OneBitCode](http://onebitcode.com/buscas-elasticsearch) as a tutorial to learn how to use ElasticSearch.
 
 Problems? Issues?
 -----------
@@ -24,11 +26,6 @@ This application requires:
 - Rails 5.0.0.1
 
 Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.html).
-
-Credits
--------
-
-This application was based on a example from onebitcode.com/buscas-elasticsearch/ as a tutorial to learn how to use ElasticSearch.
 
 License
 -------
